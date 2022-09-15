@@ -3,7 +3,7 @@ MATLAB code and data for our paper:
 Automatic image thresholding using Otsu’s method and entropy weighting scheme for surface defect detection  
 M. T. N. Truong and S. Kim  
 Journal of Soft Computing, vol. 22, no. 13, pp. 4197–4203, 2018  
-https://link.springer.com/article/10.1007%2Fs00500-017-2709-1
+https://link.springer.com/article/10.1007/s00500-017-2709-1
 
 # MATLAB code
 Besides the implementation of our proposed method, we also provide our implementations of several thresholding methods which were used for comparison in our paper.
