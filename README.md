@@ -5,11 +5,11 @@ M. T. N. Truong and S. Kim
 Journal of Soft Computing, vol. 22, no. 13, pp. 4197–4203, 2018  
 https://link.springer.com/article/10.1007/s00500-017-2709-1
 
-This algorithm is patented (see https://doi.org/10.8080/1020170082390). For commercial use, please contact kimsh [at] hknu.ac.kr
+This algorithm is patented (see https://doi.org/10.8080/1020170082390). For commercial use, please contact kimsh [at] hknu.ac.kr.
 
 # MATLAB code
 Besides the implementation of our proposed method, we also provide our implementations of several thresholding methods which were used for comparison in our paper.
-* `entropy_otsu.m` : Our method.
+* `entropy_otsu.m` : Our method. Currently the implementation is not available.
 * `my_otsu.m` : Our implementation of Otsu's method.
 * `valley_emphasis.m` : H. F. Ng. Automatic thresholding for defect detection. Pattern Recognition Letters, 27(14):1644-1649, 2006.
 * `neighbor_valley_emphasis.m` : J. L. Fan and B. Lei. A modified valley-emphasis method for automatic thresholding. Pattern Recognition Letters, 33(6):703-708, 2012.
